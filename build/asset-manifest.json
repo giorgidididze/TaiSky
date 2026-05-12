@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaiSky/static/css/main.14781760.css",
+    "main.js": "/TaiSky/static/js/main.d56e5c54.js",
+    "static/media/e-commerce.jpg": "/TaiSky/static/media/e-commerce.11567a2e67c55e1b9f11.jpg",
+    "static/media/FullLogo.png": "/TaiSky/static/media/FullLogo.3f1cd4bfe8344c7f42d6.png",
+    "index.html": "/TaiSky/index.html",
+    "main.14781760.css.map": "/TaiSky/static/css/main.14781760.css.map",
+    "main.d56e5c54.js.map": "/TaiSky/static/js/main.d56e5c54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14781760.css",
+    "static/js/main.d56e5c54.js"
+  ]
+}
