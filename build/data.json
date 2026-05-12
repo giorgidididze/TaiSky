@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "_id": "1",
+      "ProductName": "Andrey Popov",
+      "Price": 1200,
+      "Category": "health, diet, food",
+      "Description": "Metabolism after 35. How to boost and maintain it.",
+      "Details": "After 35, are you gaining weight, losing energy, and your old methods aren't working? A slow metabolism is to blame! This book will reveal the truth about sarcopenia, mitochondria, and hormonal changes. You'll learn why extreme diets are dangerous, how protein loading works, and why strength training 3-4 times a week is essential. A metabolism-boosting protocol: diet, sleep, and supplements. Breakfast and lunch recipes, along with a weekly 1600-2000 calorie menu, are included. Boost your metabolism the right way!",
+      "Quantity": 5,
+      "ProductImageUrl": "/Assets/Images/Andrey Popov.png",
+      "File": "/Assets/PDF/Метаболизм.pdf"
+    },
+    {
+      "_id": "2",
+      "ProductName": "Gordey Cherkasov",
+      "Price": 1000,
+      "Category": "health, beauty, yoga",
+      "Description": "Yoga for a Beautiful Face. Anti-Aging Asanas.",
+      "Details": "Dreaming of a toned, contoured face and radiant skin without injections or expensive procedures? This book is your practical guide to natural rejuvenation. You'll learn how inverted yoga poses work wonders on your face, increasing blood flow and oxygenating your cells. Master effective facial exercises to strengthen muscles and smooth wrinkles. Exercise routines, nutrition tips, and emotional management tips will help you not only look but also feel youthful and energized. Forget covering up imperfections and start glowing from within! Suitable for all fitness levels.",
+      "Quantity": 5,
+      "ProductImageUrl": "/Assets/Images/Gordey Cherkasov.png",
+      "File": "/Assets/PDF/Ioga dlya krasoti lica.pdf"
+    }
+  ]
+
+}
